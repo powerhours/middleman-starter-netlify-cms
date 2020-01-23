@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: powerhours/tttt-netlify
 
 media_folder: source/images/uploads
 public_folder: /images/uploads
