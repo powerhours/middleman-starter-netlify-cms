@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: powerhours/tttt-netlify
+  repo: powerhours/middleman-starter-netlify-cms
 
 media_folder: source/images/uploads
 public_folder: /images/uploads
